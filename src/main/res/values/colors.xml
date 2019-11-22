@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#35c248</color>
+    <color name="colorPrimaryDark">#35c248</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="splashBackgroundColor">#35c248</color>
+    <color name="buttonBackgroudStartColor">#97d277</color>
+    <color name="buttonBackgroudEndColor">#bd0f7cdc</color>
+    <color name="buttonBackgroundCenterColor">#cbefb31c</color>
+    <color name="backgroundColor">#9ed9d4d4</color>
+    <color name="textColor">#35c248</color>
+    <color name="shadowColor">#c3cf2d10</color>
+    <color name="dialogColor">#64d7a7ff</color>
+</resources>

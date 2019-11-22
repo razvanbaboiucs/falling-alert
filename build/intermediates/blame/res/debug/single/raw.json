@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\raw\\falling.wav",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\raw\\falling.wav"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sms_warning.wav",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\raw\\sms_warning.wav"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sitting.wav",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\raw\\sitting.wav"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.2.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\raw\\standing.wav",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\raw\\standing.wav"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\raw\\walking.wav",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\raw\\walking.wav"
+    }
+]

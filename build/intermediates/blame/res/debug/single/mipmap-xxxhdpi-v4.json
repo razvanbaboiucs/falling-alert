@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_sensor.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_sensor.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\logo_img.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_img.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_googlemap.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_googlemap.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_stop_service.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_stop_service.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_omulet.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_omulet.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\logo_img_verde.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_img_verde.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_questionmark.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_questionmark.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_start.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\falling-alert\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_sensor2.png",
+        "source": "E:\\AndroidStudioProjects\\falling-alert\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_sensor2.png"
+    }
+]
